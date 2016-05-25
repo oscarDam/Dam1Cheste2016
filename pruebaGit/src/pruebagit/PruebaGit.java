@@ -16,6 +16,10 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("2 + 2 = 4");
+        System.out.println("Algo1");
+        System.out.println("Algo2");
+        System.out.println("Algo3");
+        System.out.println("Algo4");
     }
     
 }
