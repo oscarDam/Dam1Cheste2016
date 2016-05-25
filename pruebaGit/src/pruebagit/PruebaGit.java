@@ -20,6 +20,7 @@ public class PruebaGit {
         System.out.println("Algo2");
         System.out.println("Algo3");
         System.out.println("Algo4");
+        System.out.println("Hola2");
     }
     
 }
